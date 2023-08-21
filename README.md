@@ -2,8 +2,7 @@
 
 
 
-here is some codes and problems solved by graphs algorithms. from  simply floyd warshall to dijkstra and problems like The gas station problem
-
+here is some codes and problems solved by graphs algorithms.(like floyd warshall,bfs,dfs ,dijkstra and etc) 
 req:
 math
 numpy
