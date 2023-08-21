@@ -1,6 +1,6 @@
 import typing
 
-# Created by Anna Farber
+
 '''
 Output:
 m = 1 # first bottle
