@@ -8,10 +8,9 @@ here is some codes and problems solved by graphs algorithms.(like floyd warshall
 req:
 
 
-math.
-
-numpy,
 
 
-typing(depend on our python version)
+pip install numpy
 
+
+***you nay need to install 'typing' if you are using a very old version(probably not)
